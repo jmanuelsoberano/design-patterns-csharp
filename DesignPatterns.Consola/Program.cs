@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using DesignPatterns.Strategy.Example01.Version02;
+
+new Example().Execute();
+
+Console.ReadLine();

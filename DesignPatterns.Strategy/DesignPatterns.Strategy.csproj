@@ -1,15 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DesignPatterns.NullObject\DesignPatterns.NullObject.csproj" />
-    <ProjectReference Include="..\DesignPatterns.Strategy\DesignPatterns.Strategy.csproj" />
+    <Folder Include="Example01\Version01\Business\Models\" />
+    <Folder Include="Example01\Version02\Business\Strategies\SalesTax\" />
+    <Folder Include="Example01\Version02\Business\Strategies\" />
   </ItemGroup>
 
 </Project>

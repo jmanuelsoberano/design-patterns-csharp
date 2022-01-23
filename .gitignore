@@ -5,3 +5,8 @@
 /.vs/DesignPatterns/DesignTimeBuild
 /.vs/DesignPatterns
 /DesignPatterns.Consola/obj
+/DesignPatterns.Consola/bin/Debug/net6.0
+/DesignPatterns.NullObject/bin/Debug/net6.0
+/DesignPatterns.NullObject/obj
+/DesignPatterns.Strategy/bin/Debug/net6.0
+/DesignPatterns.Strategy/obj
