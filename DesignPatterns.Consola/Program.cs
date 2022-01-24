@@ -1,4 +1,4 @@
-﻿using DesignPatterns.Strategy.Example01.Version02;
+﻿using DesignPatterns.Strategy.Example01.Version04;
 
 new Example().Execute();
 
