@@ -10,3 +10,5 @@
 /DesignPatterns.NullObject/obj
 /DesignPatterns.Strategy/bin/Debug/net6.0
 /DesignPatterns.Strategy/obj
+/DesignPatterns.ChainOfResponsibility/obj
+/DesignPatterns.ChainOfResponsibility/bin/Debug/net6.0
