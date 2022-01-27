@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DesignPatterns.Bridge\DesignPatterns.Bridge.csproj" />
     <ProjectReference Include="..\DesignPatterns.ChainOfResponsibility\DesignPatterns.ChainOfResponsibility.csproj" />
     <ProjectReference Include="..\DesignPatterns.NullObject\DesignPatterns.NullObject.csproj" />
     <ProjectReference Include="..\DesignPatterns.Strategy\DesignPatterns.Strategy.csproj" />

@@ -12,3 +12,5 @@
 /DesignPatterns.Strategy/obj
 /DesignPatterns.ChainOfResponsibility/obj
 /DesignPatterns.ChainOfResponsibility/bin/Debug/net6.0
+/DesignPatterns.Bridge/obj
+/DesignPatterns.Bridge/bin/Debug/net6.0
