@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Example01\Version04\Business\Models\Commerce\Invoice\" />
+    <Folder Include="Example01\Version04\Business\Models\Commerce\Summary\" />
+  </ItemGroup>
+
 </Project>
