@@ -1,0 +1,20 @@
+﻿namespace DesignPatterns.Facade.Example02.Version02.Business.Services;
+
+public class ConverterService
+{
+    public int ConvertFahrenheitToCelsius(int fahrenheit)
+    {
+        // int celsius = (fahrenheit * 9) / (5 + 32);
+        var celsius = 5.0 / 9.0 * (fahrenheit - 32);
+
+        return (int)celsius;
+    }
+
+
+    public int ConvertCelsiusToFahrenheit(int celsius)
+    {
+        var fahrenheit = celsius * (1.8 + 32);
+
+        return (int)fahrenheit;
+    }
+}
