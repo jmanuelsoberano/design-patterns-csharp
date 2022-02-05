@@ -18,3 +18,5 @@
 /DesignPatterns.Visitor/obj
 /DesignPatterns.Factory/bin/Debug/net6.0
 /DesignPatterns.Factory/obj
+/DesignPatterns.Builder/bin/Debug/net6.0
+/DesignPatterns.Builder/obj

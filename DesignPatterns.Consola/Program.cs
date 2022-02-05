@@ -3,8 +3,9 @@
 //new DesignPatterns.ChainOfResponsibility.Example02.Version02.Example().Execute();
 //new DesignPatterns.Bridge.Example01.Version03.Example().Execute();
 //new DesignPatterns.Visitor.Example01.Version04.Example().Execute();
+//new DesignPatterns.Factory.Example01.Version04.Example().Execute();
 
-using DesignPatterns.Factory.Example01.Version04;
+using DesignPatterns.Builder.Example01.Version02;
 
 new Example().Execute();
 
