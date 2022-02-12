@@ -13,6 +13,7 @@
     <ProjectReference Include="..\DesignPatterns.ChainOfResponsibility\DesignPatterns.ChainOfResponsibility.csproj" />
     <ProjectReference Include="..\DesignPatterns.Facade\DesignPatterns.Facade.csproj" />
     <ProjectReference Include="..\DesignPatterns.Factory\DesignPatterns.Factory.csproj" />
+    <ProjectReference Include="..\DesignPatterns.Mediator\DesignPatterns.Mediator.csproj" />
     <ProjectReference Include="..\DesignPatterns.NullObject\DesignPatterns.NullObject.csproj" />
     <ProjectReference Include="..\DesignPatterns.Strategy\DesignPatterns.Strategy.csproj" />
     <ProjectReference Include="..\DesignPatterns.Visitor\DesignPatterns.Visitor.csproj" />

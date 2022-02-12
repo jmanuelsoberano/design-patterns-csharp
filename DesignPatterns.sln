@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Factory", "D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Builder", "DesignPatterns.Builder\DesignPatterns.Builder.csproj", "{40E440BA-E309-47BE-BD2F-D01CEED25ADA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Facade", "DesignPatterns.Facade\DesignPatterns.Facade.csproj", "{CC552B4B-ADDE-454B-BD91-8DAED7587139}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Facade", "DesignPatterns.Facade\DesignPatterns.Facade.csproj", "{CC552B4B-ADDE-454B-BD91-8DAED7587139}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Mediator", "DesignPatterns.Mediator\DesignPatterns.Mediator.csproj", "{365E462B-C2D5-40B0-AD37-C8FB2C489185}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{CC552B4B-ADDE-454B-BD91-8DAED7587139}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC552B4B-ADDE-454B-BD91-8DAED7587139}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC552B4B-ADDE-454B-BD91-8DAED7587139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365E462B-C2D5-40B0-AD37-C8FB2C489185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365E462B-C2D5-40B0-AD37-C8FB2C489185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365E462B-C2D5-40B0-AD37-C8FB2C489185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365E462B-C2D5-40B0-AD37-C8FB2C489185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

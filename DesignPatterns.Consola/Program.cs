@@ -4,8 +4,9 @@
 //new DesignPatterns.Bridge.Example01.Version03.Example().Execute();
 //new DesignPatterns.Visitor.Example01.Version04.Example().Execute();
 //new DesignPatterns.Factory.Example01.Version04.Example().Execute();
+//new DesignPatterns.Facade.Example01.Version02.Example().Execute();
 
-using DesignPatterns.Builder.Example01.Version02;
+using DesignPatterns.Mediator.Example02.Version01;
 
 new Example().Execute();
 
