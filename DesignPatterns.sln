@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.0.31919.166
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Consola", "DesignPatterns.Consola\DesignPatterns.Consola.csproj", "{657054F4-F27E-4E56-85D5-B4756FACDAD3}"
 EndProject
@@ -21,7 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Builder", "D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Facade", "DesignPatterns.Facade\DesignPatterns.Facade.csproj", "{CC552B4B-ADDE-454B-BD91-8DAED7587139}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Mediator", "DesignPatterns.Mediator\DesignPatterns.Mediator.csproj", "{365E462B-C2D5-40B0-AD37-C8FB2C489185}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Mediator", "DesignPatterns.Mediator\DesignPatterns.Mediator.csproj", "{365E462B-C2D5-40B0-AD37-C8FB2C489185}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Composite", "DesignPatterns.Composite\DesignPatterns.Composite.csproj", "{5FA4CF4D-52A8-4AE5-BBE5-48AF85646640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Decorator", "DesignPatterns.Decorator\DesignPatterns.Decorator.csproj", "{BE17DB25-9CE8-4317-A137-91BBE81CB131}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{365E462B-C2D5-40B0-AD37-C8FB2C489185}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{365E462B-C2D5-40B0-AD37-C8FB2C489185}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{365E462B-C2D5-40B0-AD37-C8FB2C489185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA4CF4D-52A8-4AE5-BBE5-48AF85646640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA4CF4D-52A8-4AE5-BBE5-48AF85646640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA4CF4D-52A8-4AE5-BBE5-48AF85646640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA4CF4D-52A8-4AE5-BBE5-48AF85646640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE17DB25-9CE8-4317-A137-91BBE81CB131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE17DB25-9CE8-4317-A137-91BBE81CB131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE17DB25-9CE8-4317-A137-91BBE81CB131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE17DB25-9CE8-4317-A137-91BBE81CB131}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

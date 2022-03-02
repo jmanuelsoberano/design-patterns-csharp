@@ -24,3 +24,7 @@
 /DesignPatterns.Facade/obj
 /DesignPatterns.Mediator/bin/Debug/net6.0
 /DesignPatterns.Mediator/obj
+/DesignPatterns.Composite/bin/Debug/net6.0
+/DesignPatterns.Composite/obj
+/DesignPatterns.Decorator/bin/Debug/net6.0
+/DesignPatterns.Decorator/obj
